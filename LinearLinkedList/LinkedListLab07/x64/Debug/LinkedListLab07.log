@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Rizwan\Desktop\Solutions\LL\LinkedListLab07\LinkedListLab07\main.cpp(855,20): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Rizwan\Desktop\Solutions\LL\LinkedListLab07\LinkedListLab07\main.cpp(855,16): warning C4309: 'argument': truncation of constant value
+  LinkedListLab07.vcxproj -> C:\Users\Rizwan\Desktop\Solutions\LL\LinkedListLab07\x64\Debug\LinkedListLab07.exe
