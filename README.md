@@ -1,8 +1,8 @@
 # Linear Linked List Implementation
 
-This will provides an elegant overview of a linked list implementation in C++, encapsulated within two classes: `Node` and `LinkedList`. These classes offer a comprehensive set of methods for efficient manipulation of linked list data structures.
+This will provides an elegant overview of a linked list implementation in C++, encapsulated within two classes: `Node` and `LinkedList`. These classes offer a comprehensive set of methods for efficient manipulation of linked list data structure.
 
-## Class Overview
+## Classes Overview
 
 ### `Node` Class
 
@@ -67,8 +67,6 @@ int main() {
     // Check if a loop exists in the list
     bool loopExists = list2.isLoopExists();
     cout << "Loop Exists: " << loopExists << endl;
-
-    // Other operations...
 
     return 0;
 }
